@@ -3,4 +3,4 @@ This repository contains my solutions to the programming assignments set by the 
 
 The course can be found at https://www.coursera.org/learn/machine-learning/home/welcome. 
 
-My account on Coursera for proof of completion https://www.coursera.org/user/61c3638416441e699b93e5833858a12d. 
+My account on Coursera for proof of completion https://www.coursera.org/account/accomplishments/certificate/37CUBRF9V95Y.
